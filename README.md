@@ -1,6 +1,6 @@
-# Fixed Width Parser to Excel
+# Fixed Width Data Parser to Excel
 
-This Python program reads a fixed-width text file and creates an Excel spreadsheet.
+This Python program reads a fixed-width data text file and creates an Excel spreadsheet.
 
 User Story: I have a text file that has rows of undelmitied (fixed-width) data. I need to create an Excel spreadsheet.
 
